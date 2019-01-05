@@ -1,2 +1,3 @@
-Testtt
-My NAME IS MAEW
+Testtt this is my github
+My NAME IS MAEW waranya
+age : 22
